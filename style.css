@@ -68,6 +68,7 @@ body {
     color: white;
     margin-bottom: 2rem;
     gap: 2rem;
+    padding: 0 1rem;
 }
 
 .temp-section {
